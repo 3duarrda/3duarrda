@@ -1,16 +1,13 @@
 ## Hi there 👋
+Aqui estão algumas ideias para você começar:
 
-<!--
-**3duarrda/3duarrda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou estudando em Padre Claudio Morelle
+- 🌱 Atualmente estou aprendendo linguagem de programação javascript
+- 👯 Procuro contribuir em programações e compatilhar meus codigos
+- 🤔 Estou procurando ajuda com meus estudos
+- 💬 Pergunte-me sobre meus estudos
+- 📫 Como entrar em contato comigo: eduarda.souza.borges@escola.pr.gov.br 
+- 😄 Pronomes: ela/dela
+- ⚡ Curiosidade: estou aprendendo a programar
+- 👉🏻[alura](www.alura.com.br)
+- ![](https://media1.tenor.com/m/-m5PJk4Ao_QAAAAC/time-coffee-coffee.gif)
